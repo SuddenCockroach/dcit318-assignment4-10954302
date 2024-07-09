@@ -1,0 +1,16 @@
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\bin\Debug\net8.0-windows\Drawing.exe
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\bin\Debug\net8.0-windows\Drawing.deps.json
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\bin\Debug\net8.0-windows\Drawing.runtimeconfig.json
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\bin\Debug\net8.0-windows\Drawing.dll
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\bin\Debug\net8.0-windows\Drawing.pdb
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.Form1.resources
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.csproj.GenerateResource.cache
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.AssemblyInfoInputs.cache
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.AssemblyInfo.cs
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.dll
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\refint\Drawing.dll
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.pdb
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\Drawing.genruntimeconfig.cache
+C:\Users\caleb\Desktop\Caleb\Drawing\Drawing\obj\Debug\net8.0-windows\ref\Drawing.dll
